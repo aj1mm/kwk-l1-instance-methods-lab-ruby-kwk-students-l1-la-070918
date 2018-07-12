@@ -1,6 +1,6 @@
 # person.rb
 class person
-  def Talk
+  def talk
     puts "Hello World!"
    end
    
