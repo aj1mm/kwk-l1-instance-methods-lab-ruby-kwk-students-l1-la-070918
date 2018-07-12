@@ -6,5 +6,8 @@ class person
    
     def Walk
       puts "The Person is walking"
+    end
+    
+  end
     
   
